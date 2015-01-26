@@ -1,5 +1,5 @@
 - [x] [Go By Example](http://gobyexample.com/)
-- [ ] [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
+- [x] [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
 - [ ] [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [ ] [Learn Testing](https://github.com/golang/go/wiki/LearnTesting)
 - [ ] [Learn Error Handling](https://github.com/golang/go/wiki/LearnErrorHandling)
