@@ -1,7 +1,7 @@
 - [x] [Go By Example](http://gobyexample.com/)
 - [x] [Learn Go in Y minutes](http://learnxinyminutes.com/docs/go/)
 - [x] [Go Bootcamp](http://www.golangbootcamp.com/book)
-- [ ] [Learn Testing](https://github.com/golang/go/wiki/LearnTesting)
+- [x] [Learn Testing](https://github.com/golang/go/wiki/LearnTesting)
 - [ ] [Learn Error Handling](https://github.com/golang/go/wiki/LearnErrorHandling)
 - [ ] [Learn Concurrency](https://github.com/golang/go/wiki/LearnConcurrency)
 - [ ] [Learn Server Programming](https://github.com/golang/go/wiki/LearnServerProgramming)
