@@ -3,5 +3,5 @@
 - [x] [Go Bootcamp](http://www.golangbootcamp.com/book)
 - [x] [Learn Testing](https://github.com/golang/go/wiki/LearnTesting)
 - [x] [Learn Error Handling](https://github.com/golang/go/wiki/LearnErrorHandling)
-- [ ] [Learn Concurrency](https://github.com/golang/go/wiki/LearnConcurrency)
+- [x] [Learn Concurrency](https://github.com/golang/go/wiki/LearnConcurrency)
 - [ ] [Learn Server Programming](https://github.com/golang/go/wiki/LearnServerProgramming)
